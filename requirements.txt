@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+open_clip_torch
+faiss-cpu
+pandas
+numpy
+pillow
+kagglehub
+scikit-learn
