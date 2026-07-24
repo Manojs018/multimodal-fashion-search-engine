@@ -19,7 +19,7 @@ This project converts a research-focused Jupyter notebook into a modular, produc
 - **🖼️ Visual Similarity Search**: Upload any image to find visually matching products instantly from the catalog.
 - **⚙️ Dynamic Metadata Filters**: Narrow down search results by Gender, Category, Sub-Category, Base Colour, and Season.
 - **🌟 Outfit Recommender**: Click the **✨ Outfits** button on any product card to get complementary style recommendations (e.g., matching topwear with bottomwear/shoes) based on visual similarities.
-- **⚡ Performance Optimized**: Fully cached models and database lookups ensure all search queries run in **< 1 second**.
+- ** Performance Optimized**: Fully cached models and database lookups ensure all search queries run in **< 1 second**.
 - **📱 Premium Responsive Design**: A high-fidelity dark-themed UI built using custom CSS, grid card layouts, and progress bars.
 
 ---
