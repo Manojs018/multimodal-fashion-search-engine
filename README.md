@@ -158,7 +158,7 @@ Open your browser and navigate to `http://localhost:8501`.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 1. **Incremental Indexing**: Add a backend admin panel to allow adding new products and computing their embeddings on the fly without rebuilds.
 2. **Hybrid Search**: Combine lexical search (TF-IDF/BM25) with semantic vector search (CLIP) to handle specific SKU or barcode lookups.
